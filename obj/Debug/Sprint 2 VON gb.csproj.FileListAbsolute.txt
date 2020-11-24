@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\bin\Debug\Sprint 2 VON gb.exe.config
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\bin\Debug\Sprint 2 VON gb.exe
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\bin\Debug\Sprint 2 VON gb.pdb
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb.g.resources
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint_2_VON_gb.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint_2_VON_gb.Resource1.resources
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb.exe
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Sprint 2 VON gb.pdb
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Window1.g.cs
+C:\Users\Administrator\source\repos\Sprint 2 VON gb\Sprint 2 VON gb\obj\Debug\Window1.baml
